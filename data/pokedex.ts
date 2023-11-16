@@ -529,7 +529,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		num: 25,
 		name: "Pikachu",
 		types: ["Electric"],
-		baseStats: {hp: 35, atk: 90, def: 30, spa: 70, spd: 30, spe: 120},
+		baseStats: {hp: 35, atk: 80, def: 40, spa: 70, spd: 40, spe: 120},
 		abilities: {0: "Static", H: "Transistor"},
 		heightm: 0.4,
 		weightkg: 6,
