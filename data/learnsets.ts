@@ -2508,6 +2508,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			uproar: ["8M"],
 			voltswitch: ["9M", "8M", "7M", "6M", "5M", "5S29"],
 			volttackle: ["7T", "6S39", "5S25", "5S29", "4S9", "4S21"],
+			wavecrash: ["9M"]
 			wildcharge: ["9M", "8M", "7M", "7L50", "6M", "6L50", "5M"],
 			wish: ["8S51"],
 			yawn: ["4S19"],
